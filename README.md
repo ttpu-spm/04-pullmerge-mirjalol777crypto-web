@@ -27,4 +27,4 @@ This assignment introduces you how to _Review Pull Requests_ and _Resolve Merge 
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
 - Review Pull Requests:   [_REPO LINK_](https://github.com/mirjalol777crypto-web/skills-review-pull-requests)
-- Resolve Merge Conflicts: _REPO LINK_
+- Resolve Merge Conflicts: [_REPO LINK_](https://github.com/mirjalol777crypto-web/skills-resolve-merge-conflicts)
